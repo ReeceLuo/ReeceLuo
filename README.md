@@ -1,6 +1,9 @@
 # 💫 Hi! I'm Reece:
 I'm a student at Vanderbilt University studying computer science and applied math.
 
+Currently learning:
+ - System Design
+ - Backend Development
 
 
 ## 💻 Tech Stack:
