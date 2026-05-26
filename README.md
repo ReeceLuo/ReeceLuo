@@ -1,4 +1,4 @@
-# 💫 Hi! I'm Reece:
+# Hi! I'm Reece:
 I'm a student at Vanderbilt University studying computer science and applied math.
 
 Currently learning:
